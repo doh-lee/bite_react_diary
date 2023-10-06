@@ -1,0 +1,5 @@
+.DiaryList{}
+.DiaryList .menu_wrapper{margin-top: 20px; margin-bottom: 30px; display: flex; justify-content: center;}
+.DiaryList .left_col select{margin-right: 10px; border: none; border-radius: 5px; background-color: #f7f7f7; padding: 6px 12px 8px; cursor: pointer; font-size: 12px; font-family: 'Noto Sans KR', serif;}
+.DiaryList .right_col{flex-grow: 1;}
+.DiaryList .right_col button{width: 100%;}
